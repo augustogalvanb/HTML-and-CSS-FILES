@@ -1,0 +1,9 @@
+/*fotos*/
+.foto {
+    width: 300px;
+    height: 300px;
+}
+/*Texto*/
+#tituloPrincipal{
+    text-align: center;
+}
